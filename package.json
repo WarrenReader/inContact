@@ -1,0 +1,11 @@
+{
+  "name": "incontact",
+  "version": "0.1.0",
+  "description": "Customer Email/Text App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Warren Reader & Stephen Reader",
+  "license": "ISC"
+}
