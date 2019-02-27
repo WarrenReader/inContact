@@ -1,0 +1,13 @@
+{
+	"name": "credentials_api",
+	"version": "1.0.0",
+	"description": "Get creds",
+	"main": "index.js",
+	"env": {
+		"Resources": {
+		}
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
