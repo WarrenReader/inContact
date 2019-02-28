@@ -8,3 +8,5 @@ inContact is a demo of a messaging platform used to send on demand or scheduled 
 
 - React
 - Webpack
+- Express
+- AWS CLI
